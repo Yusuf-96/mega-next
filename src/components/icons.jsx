@@ -22,7 +22,7 @@ export const Logo = ({
 	</svg>
 );
 
-export const DiscordIcon= ({
+export const DiscordIcon = ({
 	size = 24,
 	width,
 	height,
@@ -184,7 +184,7 @@ export const SearchIcon = (props) => (
 	</svg>
 );
 
-export const NextUILogo= (props) => {
+export const NextUILogo = (props) => {
   const { width, height = 40 } = props;
 
   return (
