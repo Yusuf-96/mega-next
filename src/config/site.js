@@ -1,5 +1,5 @@
 export const siteConfig = {
-  name: 'Next.js + NextUI',
+  name: 'Mega Next',
   description: 'Make beautiful websites regardless of your design experience.',
   navItems: [
     {
